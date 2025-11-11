@@ -1,0 +1,355 @@
+{
+  "levels": [
+    {
+      "id": "level1",
+      "name": "Sentry Duty",
+      "logs": [
+        {
+          "id": 1,
+          "log": {
+            "node": "Medbay-Alpha",
+            "transmission": "Biometric Sync",
+            "user": "Dr. Eva",
+            "protocol": "7-Zeta (Secure)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 2,
+          "log": {
+            "node": "Unknown Origin (0x...)",
+            "transmission": "Firewall Access Request",
+            "user": "null_user",
+            "protocol": "1-Alpha (Failed Handshake)"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 3,
+          "log": {
+            "node": "Hydroponics-Bay-7",
+            "transmission": "Nutrient Feed",
+            "user": "SYS_AUTOMATION",
+            "protocol": "4-Delta (Standard)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 4,
+          "log": {
+            "node": "Cargo-Bay-02",
+            "transmission": "Data Packet Received",
+            "payload": "system_update.pkg",
+            "source": "Extraterrestrial Freighter"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 5,
+          "log": {
+            "node": "Comms Array",
+            "transmission": "Colony Uplink",
+            "user": "Aegis_Core",
+            "protocol": "7-Zeta (Secure)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 6,
+          "log": {
+            "node": "Unregistered Drone [ID: 744x]",
+            "transmission": "Subsystem Ping",
+            "target": "Main Reactor Core"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 7,
+          "log": {
+            "node": "Civilian-Hab-21B",
+            "transmission": "Door Access",
+            "user": "CID-4492-B",
+            "protocol": "2-Beta"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 8,
+          "log": {
+            "node": "Unregistered Drone [ID: 73x]",
+            "transmission": "Subsystem Ping",
+            "target": "Life Support"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 9,
+          "log": {
+            "node": "Martian_Probe_Delta",
+            "transmission": "Subsystem Ping",
+            "target": "Comms Array"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 10,
+          "log": {
+            "node": "Engineering-Deck-3",
+            "transmission": "Diagnostic Run",
+            "user": "SYS_MAINTENANCE",
+            "protocol": "4-Delta (Standard)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 11,
+          "log": {
+            "node": "Relay 77-B",
+            "transmission": "Firewall Access Request",
+            "user": "root",
+            "protocol": "1-Alpha (Failed Handshake)"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 12,
+          "log": {
+            "node": "Scavenger Droid [ID: 9T9]",
+            "transmission": "Firewall Access Request",
+            "user": "admin",
+            "protocol": "1-Alpha (Failed Handshake)"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 13,
+          "log": {
+            "node": "Sentry-Drone-04",
+            "transmission": "Patrol Route Sync",
+            "user": "Aegis_Core",
+            "protocol": "6-Sigma (Secure)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 14,
+          "log": {
+            "node": "Civilian-Hab-14A",
+            "transmission": "Data Packet Opened",
+            "payload": "Galactic_Lottery_W1N.exe",
+            "source": "Spam_Relay_x90"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 15,
+          "log": {
+            "node": "Medbay-Alpha",
+            "transmission": "Patient Vitals",
+            "user": "Dr. Eva",
+            "protocol": "7-Zeta (Secure)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 16,
+          "log": {
+            "node": "Research-Lab-3",
+            "transmission": "Large Data Burst (9.8TB)",
+            "target": "Unknown_Deep_Space_Relay",
+            "protocol": "9-Psi"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 17,
+          "log": {
+            "node": "Martian_Probe_Delta",
+            "transmission": "Subsystem Ping",
+            "target": "Aegis Core (Mainframe)"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 18,
+          "log": {
+            "node": "Cargo-Bay-01",
+            "transmission": "Manifest Update",
+            "user": "Cargo_Master_Lin",
+            "protocol": "3-Gamma (Standard)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 19,
+          "log": {
+            "node": "Ghost Signal (Deep Space)",
+            "transmission": "Firewall Access Request",
+            "user": "administrator",
+            "protocol": "1-Alpha (Failed Handshake)"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 20,
+          "log": {
+            "node": "Hydroponics-Bay-4",
+            "transmission": "UV Light Cycle",
+            "user": "SYS_AUTOMATION",
+            "protocol": "4-Delta (Standard)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 21,
+          "log": {
+            "node": "Admin_Nexus",
+            "transmission": "Data Packet Received",
+            "payload": "system_patch_v3.pkg",
+            "source": "Aegis_Core_Update_Server"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 22,
+          "log": {
+            "node": "Rival Corp Uplink (Masked)",
+            "transmission": "Firewall Access Request",
+            "user": "SYS_ADMIN",
+            "protocol": "1-Alpha (Failed Handshake)"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 23,
+          "log": {
+            "node": "Engineering-Deck-1",
+            "transmission": "Data Packet Received",
+            "payload": "xf*sddSASWSsystem_update_v2SZxcvcrYs.pkg",
+            "source": "Internal_Node_0x4F"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 24,
+          "log": {
+            "node": "Rogue_Probe_Delta",
+            "transmission": "Subsystem Ping",
+            "target": "Armory"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 25,
+          "log": {
+            "node": "Comms Array",
+            "transmission": "External Uplink",
+            "user": "News_Feed_Bot",
+            "protocol": "2-Beta (Public)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 26,
+          "log": {
+            "node": "Smuggler Ship 'The Void'",
+            "transmission": "Firewall Access Request",
+            "user": "guest",
+            "protocol": "1-Alpha (Failed Handshake)"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 27,
+          "log": {
+            "node": "Civilian-Hab-88D",
+            "transmission": "Media Stream",
+            "user": "CID-9012-F",
+            "protocol": "2-Beta (Public)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 28,
+          "log": {
+            "node": "Medbay_Lobby",
+            "transmission": "Vending Machine Purchase",
+            "user": "Intern_Jex",
+            "protocol": "2-Beta (Public)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 29,
+          "log": {
+            "node": "Rogue_Probe_Delta",
+            "transmission": "Subsystem Ping",
+            "target": "Vault Door"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 30,
+          "log": {
+            "node": "Unregistered Access Point (Docking Bay 4)",
+            "transmission": "Firewall Access Request",
+            "user": "service_account",
+            "protocol": "1-Alpha (Failed Handshake)"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 31,
+          "log": {
+            "node": "Medbay_Lobby",
+            "transmission": "Door Access",
+            "user": "Intern_Jex",
+            "protocol": "2-Beta (Standard)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 32,
+          "log": {
+            "node": "Admin_Nexus",
+            "transmission": "Vault Access Request",
+            "user": "Intern_Jex",
+            "target": "Aegis_Genetics_Vault",
+            "protocol": "8-Omega (Access Denied)"
+          },
+          "anomaly": true
+        },
+        {
+          "id": 33,
+          "log": {
+            "node": "Research-Lab-3",
+            "transmission": "Data Packet Received",
+            "payload": "research_data_v4.pkg",
+            "source": "Medbay-Alpha"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 34,
+          "log": {
+            "node": "Engineering-Deck-3",
+            "transmission": "Power Grid Sync",
+            "user": "SYS_AUTOMATION",
+            "protocol": "4-Delta (Standard)"
+          },
+          "anomaly": false
+        },
+        {
+          "id": 35,
+          "log": {
+            "node": "Hydroponics-Bay-4",
+            "transmission": "System Heartbeat",
+            "target": "Shadow_Node_Gamma",
+            "protocol": "9-Psi (Unregistered)"
+          },
+          "anomaly": true
+        }
+      ]
+    }
+  ]
+}
